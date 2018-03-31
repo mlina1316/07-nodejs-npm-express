@@ -2,7 +2,7 @@
 **Author**: Lina Mukherjee and David Johnson
 **Version**: 1.0.0
 ## Overview
-Creating a Bblog page that utilizes ExpressJS framework to set up a server file to handle HTTP requests and deliver responses. The intent is that users can create new articles and guests can retrieve those articles. It also provides feedback to ensure user always has correct URL.
+Creating a blog page that utilizes ExpressJS framework to set up a server file to handle HTTP requests and deliver responses. The intent is that users can create new articles and guests can retrieve those articles. It also provides feedback to ensure user always has correct URL.
 ## Getting Started
 Forked repo from GitHub. Utilize text editor to view code and install nodemon, expressjs to run app using node server. 
 ## Architecture
